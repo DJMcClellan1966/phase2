@@ -1,0 +1,114 @@
+{
+"ids": [
+0,
+1,
+2,
+3,
+4
+],
+"id_to_offset": {
+"0": 0,
+"1": 157,
+"2": 318,
+"3": 462,
+"4": 592
+},
+"sentences_file": "sentences.jsonl",
+"vocabulary": {
+"function": [
+0,
+3
+],
+"block": [
+0
+],
+"code": [
+0
+],
+"performs": [
+0
+],
+"specific": [
+0
+],
+"task": [
+0
+],
+"variables": [
+1
+],
+"store": [
+1
+],
+"values": [
+1
+],
+"can": [
+1
+],
+"change": [
+1
+],
+"during": [
+1
+],
+"program": [
+1
+],
+"execution": [
+1
+],
+"variable": [
+1
+],
+"list": [
+2
+],
+"ordered": [
+2
+],
+"collection": [
+2
+],
+"items": [
+2
+],
+"python": [
+2,
+4
+],
+"use": [
+3
+],
+"def": [
+3
+],
+"define": [
+3
+],
+"return": [
+3
+],
+"send": [
+3
+],
+"value": [
+3
+],
+"back": [
+3
+],
+"user": [
+4
+],
+"prefers": [
+4
+],
+"scripting": [
+4
+],
+"automation": [
+4
+]
+}
+}

@@ -1,0 +1,5 @@
+{"id": 0, "text": "A function is a block of code that performs a specific task.", "term": "function", "genre_id": "definitional", "source": "build_corpus"}
+{"id": 1, "text": "Variables store values that can change during program execution.", "term": "variable", "genre_id": "definitional", "source": "build_corpus"}
+{"id": 2, "text": "A list is an ordered collection of items in Python.", "term": "list", "genre_id": "definitional", "source": "build_corpus"}
+{"id": 3, "text": "Use def to define a function and return to send a value back.", "genre_id": "code", "source": "build_corpus"}
+{"id": 4, "text": "The user prefers Python for scripting and automation.", "genre_id": "mirror", "source": "build_corpus"}

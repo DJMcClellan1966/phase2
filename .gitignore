@@ -1,0 +1,31 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.eggs/
+
+# Virtual env
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local data (optional: track seed, ignore large built)
+# data/corpus/sentences.jsonl
+# data/corpus/slice_index.json

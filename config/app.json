@@ -1,0 +1,18 @@
+{
+  "store_dir": "data",
+  "corpus_subdir": "corpus",
+  "ollama_base_url": "http://localhost:11434",
+  "model_name": "llama3.2",
+  "max_tokens": 1024,
+  "prefer_traceable_keywords": [
+    "what is ",
+    "what are ",
+    "definition of ",
+    "define ",
+    "what did we decide",
+    "remind me",
+    "recall "
+  ],
+  "dictionary_path": null,
+  "anchor_path": null
+}
