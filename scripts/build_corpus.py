@@ -58,9 +58,16 @@ def _collect_inputs(
                     continue
                 try:
                     obj = json.loads(line)
-                    t = obj.get("text") or obj.get("definition") or ""
-                    if t:
-                        out.append((t, obj.get("term"), obj.get("genre_id")))
+                    if isinstance(obj, list):
+                        for item in obj:
+                            if isinstance(item, dict):
+                                t = item.get("text") or item.get("definition") or ""
+                                if t:
+                                    out.append((t, item.get("term"), item.get("genre_id")))
+                    elif isinstance(obj, dict):
+                        t = obj.get("text") or obj.get("definition") or ""
+                        if t:
+                            out.append((t, obj.get("term"), obj.get("genre_id")))
                 except json.JSONDecodeError:
                     pass
         elif suf == ".json":
