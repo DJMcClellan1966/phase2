@@ -1,0 +1,12 @@
+{"role": "user", "content": "What is a function?"}
+{"role": "assistant", "content": "A function is a block of code that performs a specific task.\n\nUse def to define a function and return to send a value back."}
+{"role": "user", "content": "write a poem about a smile"}
+{"role": "assistant", "content": "[LLM error: Client error '404 Not Found' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404. Try Refine-only for traceable answers.]"}
+{"role": "user", "content": "what is a poem"}
+{"role": "assistant", "content": "[LLM error: Client error '404 Not Found' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404. Try Refine-only for traceable answers.]"}
+{"role": "user", "content": "function"}
+{"role": "assistant", "content": "[LLM error: Client error '404 Not Found' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404. Try Refine-only for traceable answers.]"}
+{"role": "user", "content": "what is a function?"}
+{"role": "assistant", "content": "A function is a block of code that performs a specific task.\n\nUse def to define a function and return to send a value back."}
+{"role": "user", "content": "what is a poem?"}
+{"role": "assistant", "content": "[LLM error: Client error '404 Not Found' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404. Try Refine-only for traceable answers.]"}
